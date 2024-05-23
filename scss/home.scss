@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.bg-home{
+border-width: inherit;
+height: inherit;
+background-size: cover;
+background-image: url(/img/background.png);
+}
+.bg-transparent{
+    background-color: transparent;
+}
+.bg-custom-blue{
+    background-color: #a3cae9;
+}
+.btn-custom-blue-dark{
+    background-color: #1c2f3d;
+}
+.mt-10{
+    margin-top: 18rem;
+}
+.ms-10{
+    margin-left: 20rem;
+}

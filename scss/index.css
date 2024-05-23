@@ -1,3 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 .bcolorm {
-  background-color: rgb(4, 28, 60);
+  background-color: rgb(8, 28, 60);
+}
+
+.pagebutton {
+  width: 50px;
+  border: none;
+}
+
+.circle1 {
+  background-color: rgb(212, 214, 214);
+}
+
+.notifyp {
+  margin-left: 20px;
+}
+
+.notifyview {
+  margin-left: 20px;
+}
+
+.notifyu {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  margin-left: 17px;
+}
+
+.notifyscroll {
+  max-height: 600px;
+  overflow-y: auto;
+}
+
+.pagebutton1 {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  border: none;
+}
+
+.pagebutton1:hover .text-dark {
+  color: #6c757d !important; /* Grey color on hover */
+}
+
+.warn {
+  color: #CF9E57;
+  background-color: #F5EDE2;
+}
+
+* {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.bg-home {
+  border-width: inherit;
+  height: inherit;
+  background-size: cover;
+  background-image: url(/img/background.png);
+}
+
+.bg-transparent {
+  background-color: transparent;
+}
+
+.bg-custom-blue {
+  background-color: #a3cae9;
+}
+
+.btn-custom-blue-dark {
+  background-color: #1c2f3d;
+}
+
+.mt-10 {
+  margin-top: 18rem;
+}
+
+.ms-10 {
+  margin-left: 20rem;
+}
+
+.b1, .circle {
+  background-color: rgb(2, 28, 60);
+}
+
+.mt-10 {
+  margin-top: 16rem;
+}
+
+.circle1 {
+  background-color: rgb(212, 214, 214);
+}
+
+.warn {
+  color: #CF9E57;
+  background-color: #F5EDE2;
+}
+
+.warn1 {
+  color: #eec991;
+}
+
+.he:hover {
+  background-color: rgb(212, 214, 214);
 }/*# sourceMappingURL=index.css.map */

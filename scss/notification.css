@@ -1,0 +1,19 @@
+.notifyp {
+  margin-left: 20px;
+}
+
+.notifyview {
+  margin-left: 20px;
+}
+
+.notifyu {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  margin-left: 17px;
+}
+
+.notifyscroll {
+  max-height: 600px;
+  overflow-y: auto;
+}/*# sourceMappingURL=notification.css.map */
